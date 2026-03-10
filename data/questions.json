@@ -1,0 +1,22 @@
+[
+  {"text": "What is the value of x if 2x - 4 = 10?", "options": ["3", "5", "7", "14"], "correct_answer": "7", "difficulty": 0.1, "topic": "Algebra", "tags": ["math"]},
+  {"text": "Synonym for 'Pragmatic'?", "options": ["Practical", "Idealistic", "Lazy", "Angry"], "correct_answer": "Practical", "difficulty": 0.2, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "A circle has a radius of 7. What is its approximate area? (Pi=3.14)", "options": ["44", "154", "49", "100"], "correct_answer": "154", "difficulty": 0.3, "topic": "Geometry", "tags": ["math"]},
+  {"text": "Choose the word most opposite to 'Ephemeral'?", "options": ["Short-lived", "Eternal", "Weak", "Sudden"], "correct_answer": "Eternal", "difficulty": 0.4, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "If a car travels at 60 mph, how far does it go in 15 minutes?", "options": ["10 miles", "15 miles", "20 miles", "30 miles"], "correct_answer": "15 miles", "difficulty": 0.2, "topic": "Arithmetic", "tags": ["math"]},
+  {"text": "Solve for y: 3y + 9 = 0", "options": ["3", "-3", "0", "9"], "correct_answer": "-3", "difficulty": 0.3, "topic": "Algebra", "tags": ["math"]},
+  {"text": "Identify the synonym for 'Meticulous'?", "options": ["Careless", "Detailed", "Fast", "Messy"], "correct_answer": "Detailed", "difficulty": 0.5, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "What is the median of 3, 5, 7, 9, 11?", "options": ["5", "7", "9", "35"], "correct_answer": "7", "difficulty": 0.4, "topic": "Statistics", "tags": ["math"]},
+  {"text": "Synonym for 'Luminous'?", "options": ["Dark", "Bright", "Heavy", "Slow"], "correct_answer": "Bright", "difficulty": 0.1, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "A jacket is $100 but discounted by 25%. What is the price?", "options": ["$25", "$50", "$75", "$80"], "correct_answer": "$75", "difficulty": 0.3, "topic": "Arithmetic", "tags": ["math"]},
+  {"text": "Which word means 'to reduce in force or value'?", "options": ["Augment", "Attenuate", "Solidify", "Intensify"], "correct_answer": "Attenuate", "difficulty": 0.8, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "If 3^x = 27, what is x?", "options": ["2", "3", "4", "9"], "correct_answer": "3", "difficulty": 0.5, "topic": "Algebra", "tags": ["math"]},
+  {"text": "What is the sum of angles in a triangle?", "options": ["90", "180", "270", "360"], "correct_answer": "180", "difficulty": 0.2, "topic": "Geometry", "tags": ["math"]},
+  {"text": "Meaning of 'Anomalous'?", "options": ["Normal", "Abnormal", "Circular", "Heavy"], "correct_answer": "Abnormal", "difficulty": 0.6, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "Probability of rolling a 4 on a 6-sided die?", "options": ["1/2", "1/6", "4/6", "1/4"], "correct_answer": "1/6", "difficulty": 0.4, "topic": "Statistics", "tags": ["math"]},
+  {"text": "Synonym for 'Laconic'?", "options": ["Talkative", "Brief", "Happy", "Large"], "correct_answer": "Brief", "difficulty": 0.7, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "If x is an even integer, what is x + 1?", "options": ["Even", "Odd", "Zero", "Prime"], "correct_answer": "Odd", "difficulty": 0.3, "topic": "Algebra", "tags": ["math"]},
+  {"text": "Find the average of 10, 20, 30, 40?", "options": ["20", "25", "30", "100"], "correct_answer": "25", "difficulty": 0.2, "topic": "Statistics", "tags": ["math"]},
+  {"text": "Meaning of 'Venerate'?", "options": ["To hate", "To respect deeply", "To forget", "To move"], "correct_answer": "To respect deeply", "difficulty": 0.7, "topic": "Vocabulary", "tags": ["english"]},
+  {"text": "Solve: 5^2 - 4^2?", "options": ["1", "9", "25", "16"], "correct_answer": "9", "difficulty": 0.4, "topic": "Arithmetic", "tags": ["math"]}
+]
